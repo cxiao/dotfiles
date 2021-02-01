@@ -1,0 +1,14 @@
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[user]
+	email = cndxiao@gmail.com
+	name = Cindy Xiao
+[core]
+	excludesfile = /home/cindy/.gitignore
+	editor = nvim
